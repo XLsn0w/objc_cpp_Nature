@@ -17,7 +17,7 @@
 		663D0D9321100C5A002015D3 /* objc_cpp_NatureUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 663D0D9221100C5A002015D3 /* objc_cpp_NatureUITests.m */; };
 		663D0DA221100C8C002015D3 /* Test.m in Sources */ = {isa = PBXBuildFile; fileRef = 663D0DA121100C8C002015D3 /* Test.m */; };
 		663D0DA521100CAB002015D3 /* Test+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 663D0DA421100CAB002015D3 /* Test+Extension.m */; };
-		663D0DA821104665002015D3 /* ImageDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = 663D0DA721104665002015D3 /* ImageDownloader.m */; };
+		663D0DA821104665002015D3 /* GetImageTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 663D0DA721104665002015D3 /* GetImageTool.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,8 +58,8 @@
 		663D0DA121100C8C002015D3 /* Test.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test.m; sourceTree = "<group>"; };
 		663D0DA321100CAB002015D3 /* Test+Extension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Test+Extension.h"; sourceTree = "<group>"; };
 		663D0DA421100CAB002015D3 /* Test+Extension.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "Test+Extension.m"; sourceTree = "<group>"; };
-		663D0DA621104665002015D3 /* ImageDownloader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ImageDownloader.h; sourceTree = "<group>"; };
-		663D0DA721104665002015D3 /* ImageDownloader.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImageDownloader.m; sourceTree = "<group>"; };
+		663D0DA621104665002015D3 /* GetImageTool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GetImageTool.h; sourceTree = "<group>"; };
+		663D0DA721104665002015D3 /* GetImageTool.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GetImageTool.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,8 +114,8 @@
 				663D0D6F21100C59002015D3 /* AppDelegate.m */,
 				663D0D7121100C59002015D3 /* ViewController.h */,
 				663D0D7221100C59002015D3 /* ViewController.m */,
-				663D0DA621104665002015D3 /* ImageDownloader.h */,
-				663D0DA721104665002015D3 /* ImageDownloader.m */,
+				663D0DA621104665002015D3 /* GetImageTool.h */,
+				663D0DA721104665002015D3 /* GetImageTool.m */,
 				663D0DA021100C8C002015D3 /* Test.h */,
 				663D0DA121100C8C002015D3 /* Test.m */,
 				663D0DA321100CAB002015D3 /* Test+Extension.h */,
@@ -277,7 +277,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				663D0DA821104665002015D3 /* ImageDownloader.m in Sources */,
+				663D0DA821104665002015D3 /* GetImageTool.m in Sources */,
 				663D0DA521100CAB002015D3 /* Test+Extension.m in Sources */,
 				663D0D7321100C59002015D3 /* ViewController.m in Sources */,
 				663D0DA221100C8C002015D3 /* Test.m in Sources */,
