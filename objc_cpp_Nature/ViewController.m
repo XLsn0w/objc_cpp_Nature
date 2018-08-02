@@ -10,6 +10,9 @@
 
 @interface ViewController ()
 
+///   终端命令行转成C++
+///   xcrun -sdk iphoneos clang -arch arm64 -rewrite-objc class.m
+
 @end
 
 @implementation ViewController
